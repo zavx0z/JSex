@@ -1,6 +1,1 @@
-import {base} from "./base";
-
-const main = () => console.info("i'm main module")
-
-main()
-base("main.js")
+console.info("Место для размещения полезного кода JS")

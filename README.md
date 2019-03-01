@@ -1,1 +1,1 @@
-# JSdev
+# JavaScript examples
